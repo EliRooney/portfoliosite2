@@ -1,0 +1,29 @@
+i
+{
+	/*color: #f5f5dc;*/
+}
+
+
+.houseIcon
+{
+	z-index: 1;
+}
+
+.left
+{
+	z-index: 1;
+	color: #1c1c1c; /*dark Grey*/
+	opacity: .5;
+}
+
+.right
+{
+	z-index: 1;
+	color: #1c1c1c; /*dark Grey*/
+	opacity: .5;
+}
+
+.fa-linkedin-square, .fa-envelope, .fa-phone
+{
+	color: #f5f5dc;
+}
